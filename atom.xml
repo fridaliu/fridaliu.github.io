@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fridaliu.github.io</id>
-    <title>证券产品推荐网站</title>
-    <updated>2022-04-11T10:59:46.286Z</updated>
+    <title>证券产品推荐服务平台</title>
+    <updated>2022-04-11T11:04:06.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fridaliu.github.io"/>
     <link rel="self" href="https://fridaliu.github.io/atom.xml"/>
-    <subtitle>证券产品推荐网站</subtitle>
+    <subtitle>证券产品推荐服务平台</subtitle>
     <logo>https://fridaliu.github.io/images/avatar.png</logo>
     <icon>https://fridaliu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 证券产品推荐网站</rights>
+    <rights>All rights reserved 2022, 证券产品推荐服务平台</rights>
     <entry>
         <title type="html"><![CDATA[网站介绍]]></title>
         <id>https://fridaliu.github.io/post/wang-zhan-jie-shao/</id>
